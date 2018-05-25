@@ -1,5 +1,5 @@
 /*
-IMPLEMENTAÇÃO DO MUNDO DO WUMPUS
+IMPLEMENTAÇÃO DO MUNDO DO WUMPUSS
 
 Por: Fabiano Souza - fabiano_souza@hotmail.com
 

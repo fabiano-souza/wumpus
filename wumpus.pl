@@ -1,8 +1,6 @@
 /*
 IMPLEMENTAÇÃO DO MUNDO DO WUMPUS
 
-Por: Fabiano Souza - fabiano_souza@hotmail.com
-
 
 
 ABORDAGEM PROPOSTA
